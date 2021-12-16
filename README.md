@@ -4,6 +4,17 @@ Python may be used to do mathematical operations such as addition, subtraction, 
 
 Python may be used to do simple arithmetic computations.
 
+# >>: DEMONSTRATION :<<
+```
+
++      Addition	            2 + 3	            5
+-	     Subtraction        	8 - 6	            2
+-  	   Negative number       -4	             -4
+*	     Multiplication	      5 * 2	           10
+/	     Division	            6 / 3	            2
+
+```
+
 # >>: USAGE :<<
 ```
 git clone https://github.com/GhostPoltergeist/S.O.L.V.git
