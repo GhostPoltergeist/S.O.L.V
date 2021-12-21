@@ -1,4 +1,6 @@
 import time
+import os
+clear = lambda: os.system('cls')
 
 def main():
     print("""
@@ -44,8 +46,10 @@ def main():
 
     repeat = input("   >>: Would you like to Calculate Another Integer Value [y]/[n]: ").lower()
     if repeat == "y":
+        clear()
         main()
     else:
         print("   >>: Thank you User")
         exit()
+clear()
 main()
